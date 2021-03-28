@@ -1,7 +1,7 @@
 # HW2
 ## 作業 2: Build a Website using Amazon EC2 with LAMP
 
-中間稍微口誤，片尾有修正<br>
+中間稍微口誤，片尾有修正<br><br>
 0:00​ ~ 0:49​ Description<br>
 7:00​         Web Server建置完成<br>
 9:48​         DatabaseServer建置完成<br>
